@@ -1,1 +1,1 @@
-New directory for Recursion Tasks in C
+new directory for Recursion in C
